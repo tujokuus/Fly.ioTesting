@@ -1,2 +1,2 @@
-# Fly.ioTesting
-Fly.io:n harjoittelua peinellä muistiinpanosovelluksella
+# RenderTesting
+Renderin harjoittelua tekemälläni peinellä muistiinpanosovelluksella
